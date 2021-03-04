@@ -23,9 +23,7 @@ The raw datasets were analyzed and made tidy. The Covid19_ArticleSearch online a
 ARTIFACTS   
 ========================================================   
 Shiny Application: https://hpbarr.shinyapps.io/covid19_ReportApp/   
-   
-Git: https://github.com/hbarrien/Covid19_ArticleSearch
-   
+      
 ACKNOWLEDGEMENTS
 ========================================================   
 This dataset was created by the Allen Institute for AI in partnership with the Chan Zuckerberg Initiative, Georgetown University’s Center for Security and Emerging Technology, Microsoft Research, IBM, and the National Library of Medicine - National Institutes of Health, in coordination with The White House Office of Science and Technology Policy.   
