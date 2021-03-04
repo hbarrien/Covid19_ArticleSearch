@@ -30,6 +30,9 @@ main_topic.csv
 metadata_abstract.csv   
 metadata_full_text.csv   
 metadata_title.csv   
+  
+Other:   
+covid-image.webp: must be in a folder called "www"
    
 ACKNOWLEDGEMENTS
 ========================================================   
